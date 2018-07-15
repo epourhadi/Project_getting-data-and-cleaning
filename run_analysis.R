@@ -90,3 +90,5 @@
 > 
 > # output to file "tidy_data.txt"
 > write.table(humanActivityMeans, "tidy_data.txt", row.names = FALSE,quote = FALSE)
+> save.image("F:\\coursera.org\\Course 3-Getting and Cleaning Data\\week 4\\run_analysis")
+> 
